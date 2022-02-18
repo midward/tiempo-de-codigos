@@ -34,4 +34,4 @@ for size in [10,50,100,500,1000]:
         finalSeleccion = time.time()
         print(f"Ordenamiento_seleccion n: {size} tiempo: {finalSeleccion-inicioSeleccion}")
 
-        print("---------------------------------------------------------------------------------------------")
+        print("--------------------------------------------------------------------------------------------")
