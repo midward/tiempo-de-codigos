@@ -4,3 +4,4 @@ def insertionSort(A):
         while j > 0 and A[j-1] > A[j]:
             A[j],A[j-1] = A[j-1],A[j]
             j -= 1
+            /
