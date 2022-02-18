@@ -6,4 +6,4 @@ def seleccion(A):
             min_idx = j
 
     A[i], A[min_idx] = A[min_idx], A[i]
-    /
+    
